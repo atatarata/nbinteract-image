@@ -1,6 +1,7 @@
 numpy
 pandas
 scipy
+seaborn
 folium
 matplotlib
 datascience
